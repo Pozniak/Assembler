@@ -1,0 +1,8 @@
+# Игорирование всех файлов кроме *.s и test
+*
+!*/
+!.gitignore
+!.gitattributes
+!.gitmodules
+!*.s
+test
