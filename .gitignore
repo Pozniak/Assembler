@@ -1,8 +1,10 @@
-# Игорирование всех файлов кроме *.s и test
+# Игорирование всех файлов кроме *.s и *.mac
 *
 !*/
 !.gitignore
 !.gitattributes
 !.gitmodules
 !*.s
+!*.mac
+!makefile
 test
